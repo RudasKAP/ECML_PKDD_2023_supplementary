@@ -1,1 +1,1 @@
-# ECML_PKDD_2023_supplementary
+# Supplementary materials for Regularization for uplift regression, ECML/PKDD'23
